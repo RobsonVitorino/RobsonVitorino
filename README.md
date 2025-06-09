@@ -16,10 +16,10 @@ Busco oportunidades como Desenvolvedor Júnior, onde possa aplicar meus conhecim
 
 🛠️ Habilidades Técnicas:
 
- • Front-end: HTML, CSS JavaScript
- • Back-end: Java, Python, Spring Boot, API REST
- • Banco de Dados: MySQL, SQL
- • Ferramentas: Git, GitHub, Postman
+ • Front-end: HTML, CSS JavaScript <br> 
+ • Back-end: Java, Python, Spring Boot, API REST <br>
+ • Banco de Dados: MySQL, SQL <br>
+ • Ferramentas: Git, GitHub, Postman <br>
  • Metodologias: Scrum
 
 💡 Interesses: Desenvolvimento Web • Projetos Full Stack • Aprendizado contínuo • Boas práticas de código • Trabalho em equipe

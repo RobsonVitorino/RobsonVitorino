@@ -12,15 +12,15 @@ Eu sou apaixonado por tecnologia, desenvolvimento de software e soluções que f
 
 Sou estudante de Sistemas para Internet no Instituto Federal Catarinense e fui destaque no curso de programação da fintech alt.bank, sendo o único aluno contratado após a edição de 2023. Antes disso, atuei como estagiário de desenvolvimento na Wonami, onde participei ativamente de testes, identificação de bugs e implementação de funcionalidades.
 
-Busco oportunidades como Desenvolvedor Júnior, onde possa aplicar meus conhecimentos em programação, aprender continuamente e contribuir para projetos reais com propósito.
+Estou em busca de oportunidades como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos em programação, evoluir constantemente e contribuir com projetos reais que tenham propósito e impacto.
 
-🛠️ Habilidades Técnicas:
-
- • Front-end: HTML, CSS JavaScript <br> 
- • Back-end: Java, Python, Spring Boot, API REST <br>
- • Banco de Dados: MySQL, SQL <br>
- • Ferramentas: Git, GitHub, Postman <br>
- • Metodologias: Scrum
+🛠️ Habilidades Técnicas
+• Front-end: HTML, CSS, JavaScript
+• Back-end: Java, Python, Spring Boot, API REST
+• Banco de Dados: MySQL, SQL
+• Ferramentas: Git, GitHub, Postman
+• Cloud: AWS
+• Metodologias: Scrum
 
 💡 Interesses: Desenvolvimento Web • Projetos Full Stack • Aprendizado contínuo • Boas práticas de código • Trabalho em equipe
 

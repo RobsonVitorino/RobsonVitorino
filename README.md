@@ -14,13 +14,13 @@ Sou estudante de Sistemas para Internet no Instituto Federal Catarinense e fui d
 
 Estou em busca de oportunidades como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos em programação, evoluir constantemente e contribuir com projetos reais que tenham propósito e impacto.
 
-🛠️ Habilidades Técnicas
-• Front-end: HTML, CSS, JavaScript
-• Back-end: Java, Python, Spring Boot, API REST
-• Banco de Dados: MySQL, SQL
-• Ferramentas: Git, GitHub, Postman
-• Cloud: AWS
-• Metodologias: Scrum
+🛠️ Habilidades Técnicas:<br>
+• Front-end: HTML, CSS, JavaScript<br>
+• Back-end: Java, Python, Spring Boot, API REST<br>
+• Banco de Dados: MySQL, SQL<br>
+• Ferramentas: Git, GitHub, Postman<br>
+• Cloud: AWS<br>
+• Metodologias: Scrum<br>
 
 💡 Interesses: Desenvolvimento Web • Projetos Full Stack • Aprendizado contínuo • Boas práticas de código • Trabalho em equipe
 
